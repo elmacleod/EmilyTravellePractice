@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		9BC71DFE2158405D00F02D77 /* hello.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = hello.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		9BC71DF72158404100F02D77 = {
 			isa = PBXGroup;
 			children = (
+				9BC71DFE2158405D00F02D77 /* hello.java */,
 			);
 			sourceTree = "<group>";
 		};
